@@ -83,3 +83,14 @@ if __name__ == "__main__":
 
 # if __name__ == "__main__":
 #     main()
+
+
+#very short approach 
+
+# ================================================
+# Word Counter Program
+# ================================================
+    
+#user=input("enter the sentence : ")
+#words=user.split()
+#print(f"total number of words : ",len(words))
